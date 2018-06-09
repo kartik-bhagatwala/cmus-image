@@ -9,9 +9,11 @@ It extracts the image from a music file, then uses imagemagick to overlay the im
 
 dependencies (ubuntu):`sudo apt install ffmpeg imagemagick-6.q16 cmus`
 
+`git clone https://github.com/kartik-bhagatwala/cmus-image.git`
+
 place the script anywhere in your path, usually in `~/.local/bin`
 
-in cmus, enter `:set status_display_program=cdisp.sh`
+in cmus, enter `:set status_display_program=cmus-image.sh`
 
 # Usage
 
