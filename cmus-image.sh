@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This is the path to your wallaper
-ORIGINAL_WALLPAPER="/usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg"
+ORIGINAL_WALLPAPER="/usr/share/backgrounds/warty-final-ubuntu.png"
 
 
 #This is the actual script, modify the options you want
